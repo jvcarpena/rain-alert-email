@@ -1,4 +1,4 @@
-# Weather Alert Script
+# Rain Alert Script
 
 This Python script fetches weather data using an API and sends an email alert if rain is expected.
 
